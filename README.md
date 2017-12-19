@@ -1,0 +1,2 @@
+# aadya
+Wordpress Theme
